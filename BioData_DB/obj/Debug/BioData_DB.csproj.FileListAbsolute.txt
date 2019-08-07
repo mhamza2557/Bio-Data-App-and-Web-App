@@ -1,0 +1,11 @@
+C:\Users\Hamza\source\repos\BioData_DB\bin\Debug\BioData_DB.exe.config
+C:\Users\Hamza\source\repos\BioData_DB\bin\Debug\BioData_DB.exe
+C:\Users\Hamza\source\repos\BioData_DB\bin\Debug\BioData_DB.pdb
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.csprojAssemblyReference.cache
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.Form1.resources
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.Properties.Resources.resources
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.exe
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.pdb
+C:\Users\Hamza\source\repos\BioData_DB\obj\Debug\BioData_DB.Form2.resources
